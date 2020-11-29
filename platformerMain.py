@@ -17,9 +17,9 @@ isJumping=False
 moveSpeed=3
 global jumpCount
 jumpCount=9
-pygame.mixer.init()
-pygame.mixer.music.load("Songs\\main.wav")
-pygame.mixer.music.play(-1)
+#pygame.mixer.init()
+#pygame.mixer.music.load("Songs\\main.wav")
+#pygame.mixer.music.play(-1)
 #Variables init End
 
 #Screen init
